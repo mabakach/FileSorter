@@ -14,11 +14,14 @@ FileSorter can be run with [https://github.com/jbangdev/jbang](J'BANG) as follow
 
 The following arguments are available:
 
-`-h, --help        Show help message and exit.
- -i, --input=<inputDirectory>
-                    Path to the unsorted files
- -o, --output=<outputDirectory>
-                    Path where the sorted file should be copied to.
- -r, --recursive   Recursively process all subdirectories. Default = true
- -v, --verbose     Enable verbose output. Default = false
- -V, --version     Print version information and exit.`
+`-h, --help        Show help message and exit.`
+
+`-i, --input=<inputDirectory> Path to the unsorted files`
+
+`-o, --output=<outputDirectory> Path where the sorted file should be copied to.`
+
+`-r, --recursive   Recursively process all subdirectories. Default = true`
+
+`-v, --verbose     Enable verbose output. Default = false`
+
+`-V, --version     Print version information and exit.`
